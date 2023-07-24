@@ -1,0 +1,5 @@
+1.start apache and mysql server
+2.python main.py
+3.some address will come.ctrl+click on that address.if it didnt come then press shift+ctrl+r
+4.admin login details are there in config.txt.
+
